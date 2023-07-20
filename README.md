@@ -1,7 +1,6 @@
 # RelogioDigital
 
-<div align="center"> <img src="./assets
-/RelogioJS.png" width="100%" /></div>
+<div align="center"> <img src="RelogioJS.png" width="100%" /></div>
 
 
 
@@ -23,4 +22,4 @@
 ## 
 
 
-- <a href="" target="_ blank" >Teste o projeto, aqui !</a>
+- <a href="https://rodrigofrancosantos.github.io/RelogioDigital/" target="_ blank" >Teste o projeto, aqui !</a>
