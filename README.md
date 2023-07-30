@@ -22,4 +22,4 @@
 ## 
 
 
-- <a href="https://rodrigofrancosantos.github.io/RelogioDigital/" target="_ blank" >Teste o projeto, aqui !</a>
+- <a href="https://rodrigofrancosantos.github.io/RelogioDigital/" target="_ blank" >Teste o projeto aqui !</a>
